@@ -1,0 +1,7 @@
+1636274351.9396076 : waiting 2 seconds to initialize the camera..
+1636274353.943055 : camera setup complete
+1636274353.9455829 : GPIO setup complete
+1636274354.0263214 : Email setup complete
+1636274354.0275998 : all setup complete
+1636274363.3079789 : /home/pi/camera/img_1636274362.7665179.jpg
+1636274368.889169 : image sent
